@@ -8,3 +8,5 @@ No?
 Why won't this commit thing work?
 
 It does work, E2. Stop editing this BTW, it's an important document.
+
+Also, making commits works.
